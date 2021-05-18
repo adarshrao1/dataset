@@ -1,4 +1,4 @@
-# **Satelite images dataset**
+# **Satellite images dataset**
 
 It contains dataset of 4239 images of water bodies and their corresponding mask image for ML model training.
 
