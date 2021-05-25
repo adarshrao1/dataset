@@ -1,6 +1,6 @@
 # **Satellite images dataset**
 
-It contains dataset of 4239 images of water bodies and their corresponding mask image for ML model training.
+Dataset contains images of 4239 images of water bodies and their corresponding mask image for ML model training.
 
 [FastAI](https://github.com/fastai/fastai) is recommended for training image dataset.
 
